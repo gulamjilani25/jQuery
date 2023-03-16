@@ -1,0 +1,11 @@
+$(document).ready(function(){
+	$('div').click(function(){
+		$(this).animate({marginLeft:800},2000,function(){
+			$(this).animate({marginLeft:0},function(){
+				$(this).css({marginLeft:100}).fadeOut(600).fadeIn(200,function(){
+					$(this).css({marginLeft:0})
+				});
+			});
+		});
+	});
+})

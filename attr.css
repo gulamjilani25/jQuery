@@ -1,0 +1,16 @@
+*
+body{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+}
+
+p{
+    font-weight: bold;
+    font-style: italic;
+}

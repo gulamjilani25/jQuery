@@ -1,0 +1,22 @@
+*
+body{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+button{
+    margin-top: 8px;
+    margin-left: 5px;
+    background-color: aqua;
+    border: 1px solid orange;
+    color: blueviolet;
+}
+p{
+  margin-left: 5px;
+  margin-right: 5px;
+  background: red;
+  color: rgb(0, 255, 51);
+  text-align: center;
+  font-size: 30px;
+  padding: 50px;
+}

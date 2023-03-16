@@ -1,0 +1,49 @@
+*
+body{
+  font-family: arial:;
+  background-color: rgb(173, 109, 233);
+}
+
+#box{
+    border: 3px solid green;
+    margin: 4px;
+    padding: 5px;
+}
+
+.first{
+    background: violet;
+}
+
+.second{
+    background: pink;
+}
+h1{
+    width: 80%;
+    padding: 10px;
+    margin: 12px;
+    margin-left: 55px;
+    background-color: gray;
+    text-align: center;
+}
+
+h2{
+    margin-left: 15px;
+}
+
+p{
+    margin-left: 13px;
+    margin-right: 5px;
+}
+
+#addbutton{
+    margin-left: 200px;
+    color: green;
+}
+
+#removebutton{
+    color: red;
+}
+
+#togglebutton{
+       color: orangered;
+}

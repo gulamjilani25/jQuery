@@ -1,0 +1,48 @@
+*
+body{
+    background-color: bisque;
+}
+
+h1{
+    background-color: rgb(247, 247, 239);
+    color: orange;
+    margin-left: 20px;
+    text-align: center;
+    width: 93%;
+    padding: 5px;
+}
+
+#box{
+    border: 5px solid gray;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h2{
+    margin-left: 10px;
+    color: blue;
+}
+
+p{
+    margin-left: 12px;
+    font-weight: bold;
+}
+
+#slideUpbtn{
+       margin: 7px;
+       margin-left: 200px;
+       background-color: green;
+       color: yellow;
+}
+
+#slideDownbtn{
+    margin: 7px;
+    background-color: red;
+    color: orange;
+}
+
+#slideTogglebtn{
+    margin: 7px;
+    background-color: green;
+    color: orange;
+}
